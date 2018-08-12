@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "management.port",
+    "type": "java.lang.String",
+    "description": "A description for 'management.port'"
+  },
+  {
+    "name": "tomcat.jvmroute",
+    "type": "java.lang.String",
+    "description": "A description for 'tomcat.jvmroute'"
+  },
+  {
+    "name": "tomcat.ajp.redirectPort",
+    "type": "java.lang.String",
+    "description": "A description for 'tomcat.ajp.redirectPort'"
+  },
+  {
+    "name": "tomcat.ajp.port",
+    "type": "java.lang.String",
+    "description": "A description for 'tomcat.ajp.port'"
+  },
+  {
+    "name": "app.welcome.message",
+    "type": "java.lang.String",
+    "description": "A description for 'app.welcome.message'"
+  },
+  {
+    "name": "app.welcome.title",
+    "type": "java.lang.String",
+    "description": "A description for 'app.welcome.title'"
+  },
+  {
+    "name": "tomcat.ajp.redirectPort",
+    "type": "java.lang.String",
+    "description": "A description for 'tomcat.ajp.redirectPort'"
+  },
+  {
+    "name": "tomcat.ajp.redirectPort",
+    "type": "java.lang.String",
+    "description": "A description for 'tomcat.ajp.redirectPort'"
+  },
+  {
+    "name": "spring.thymeleaf.servlet.content-type",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.thymeleaf.servlet.content-type'"
+  }
+]}
