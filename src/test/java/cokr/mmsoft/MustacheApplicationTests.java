@@ -1,4 +1,4 @@
-package com.mkyong;
+package cokr.mmsoft;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -32,7 +32,7 @@ public class MustacheApplicationTests {
 		
 		ResponseEntity<String> entity = this.restTemplate.getForEntity("/", String.class);
 		assertThat(entity.getStatusCode()).isEqualTo(HttpStatus.OK);
-		assertThat(entity.getBody()).contains("Hello Mkyong");
+		assertThat(entity.getBody()).contains("Hello MMsoft");
 		
 	}
 
