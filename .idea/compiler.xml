@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-web-mustache" />
+        <module name="first" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-boot-web-mustache" target="1.8" />
+      <module name="first" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
