@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8408be41-985a-4713-b103-d7702f0283ed" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/h2_1_4_197.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/h2_1_4_197_sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_3_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.iml" beforeDir="false" afterPath="$PROJECT_DIR$/first.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-mustache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/first.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cokr/mmsoft/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cokr/mmsoft/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cokr/mmsoft/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cokr/mmsoft/WelcomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cokr/mmsoft/SpringBootWebApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cokr/mmsoft/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cokr/mmsoft/WelcomeController.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,31 +37,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/User.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="26" column="1" selection-start-line="1" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scratch.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/77ac06f3-6160-44c9-a388-48727dbc4d13/console.sql">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="first.iml" pinned="false" current-in-tab="false">
@@ -77,8 +69,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            <state relative-caret-position="114">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -86,15 +78,10 @@
       <file leaf-file-name=".classpath" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.classpath">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-278">
+            <state relative-caret-position="399">
               <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".project" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.project">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="welcome2.html" pinned="false" current-in-tab="false">
@@ -106,22 +93,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WelcomeController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WelcomeController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/WelcomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-219">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="427">
+              <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#511#517#0" expanded="true" />
-                <element signature="e#990#1014#1" expanded="true" />
-                <element signature="e#1055#1077#1" expanded="true" />
+                <element signature="e#362#368#0" expanded="true" />
+                <element signature="e#841#865#1" expanded="true" />
+                <element signature="e#906#928#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/list.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -130,6 +129,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kslee" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -142,9 +146,11 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/list.html" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/welcome2.html" />
-        <option value="$PROJECT_DIR$/src/main/java/cokr/mmsoft/WelcomeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/cokr/mmsoft/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cokr/mmsoft/domain/User.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cokr/mmsoft/PostMapping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cokr/mmsoft/WelcomeController.java" />
       </list>
     </option>
   </component>
@@ -158,8 +164,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="126" />
-    <option name="y" value="57" />
+    <option name="x" value="161" />
+    <option name="y" value="82" />
     <option name="width" value="1686" />
     <option name="height" value="923" />
   </component>
@@ -169,7 +175,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,9 +264,13 @@
       </pane>
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -272,15 +281,21 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="H2" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="H2" />
-    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/com/h2database/h2/1.4.197/h2-1.4.197.jar!/" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.0.3.RELEASE/spring-boot-starter-web-2.0.3.RELEASE-sources.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.28773978" />
+    <property name="project.structure.side.proportion" value="0.33094463" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cokr.mmsoft" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cokr.mmsoft" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\IdeaProjects\spring-boot-web-mustache\src\main\resources\templates\error" />
       <recent name="C:\Users\Administrator\IdeaProjects\spring-boot-web-mustache\src\main\java\cokr\mmsoft" />
@@ -367,7 +382,8 @@
       <workItem from="1534130146007" duration="144000" />
       <workItem from="1534130470437" duration="4065000" />
       <workItem from="1534207366852" duration="1011000" />
-      <workItem from="1534747795086" duration="6204000" />
+      <workItem from="1534747795086" duration="6865000" />
+      <workItem from="1534811877964" duration="5774000" />
     </task>
     <task id="LOCAL-00001" summary="welcome 메시지 수정">
       <created>1534133886029</created>
@@ -376,14 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1534133886029</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="h2데이타베이스 product추가로 완성">
+      <created>1534761425367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534761425367</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24281000" />
+    <option name="totallyTimeSpent" value="30716000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="126" y="57" width="1686" height="923" extended-state="0" />
+    <frame x="161" y="82" width="1686" height="923" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -398,16 +421,17 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32923833" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3022113" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3022113" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30718562" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -415,7 +439,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
@@ -431,9 +454,30 @@
       <path value="$PROJECT_DIR$/../web_tmp" />
     </ignored-roots>
     <MESSAGE value="welcome 메시지 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="welcome 메시지 수정" />
+    <MESSAGE value="h2데이타베이스 product추가로 완성" />
+    <option name="LAST_COMMIT_MESSAGE" value="h2데이타베이스 product추가로 완성" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/WelcomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#368#0" expanded="true" />
+            <element signature="e#841#865#1" expanded="true" />
+            <element signature="e#906#928#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/WelcomeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -441,7 +485,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/domain/User.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/error/5xx.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -638,7 +682,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/form.html" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/list.html" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/layout/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -674,13 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="26" column="1" selection-start-line="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/first.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -688,46 +724,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.project">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.classpath">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-278">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/77ac06f3-6160-44c9-a388-48727dbc4d13/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/WelcomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-219">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#511#517#0" expanded="true" />
-            <element signature="e#990#1014#1" expanded="true" />
-            <element signature="e#1055#1077#1" expanded="true" />
-          </folding>
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/list.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/PostMapping.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cokr/mmsoft/WelcomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#368#0" expanded="true" />
+            <element signature="e#841#865#1" expanded="true" />
+            <element signature="e#906#928#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -783,7 +826,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>spring-boot-web-mustache</last-edited>
+          <last-edited>first</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -808,11 +851,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.samskivert:jmustache:1.13</last-edited>
+          <last-edited>Maven: org.springframework.boot:spring-boot-web:2.0.3.RELEASE</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.28773978" />
+                <option value="0.33094463" />
               </list>
             </option>
           </splitter-proportions>
